@@ -1,5 +1,5 @@
 # ParameterEfficient-DML
-Code of ICLR 2024 Paper: Learning Semantic Proxies from Visual Prompts for Parameter-Efficient Fine-Tuning in Deep Metric Learning
+Code of ICLR 2024 Paper: [Learning Semantic Proxies from Visual Prompts for Parameter-Efficient Fine-Tuning in Deep Metric Learning](https://arxiv.org/pdf/2402.02340.pdf)
 
 ## Abstract 
 
@@ -13,7 +13,5 @@ Deep Metric Learning (DML) has long attracted the attention of the machine learn
   year={2024}
 }
 ```
-
-https://arxiv.org/pdf/2402.02340.pdf
 
 Code is coming soon.
