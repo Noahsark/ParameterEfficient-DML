@@ -1,0 +1,118 @@
+batch_size:
+  desc: null
+  value: 32
+checkpoint:
+  desc: null
+  value: true
+dataset:
+  desc: null
+  value: sop
+decay:
+  desc: null
+  value: 0.0001
+embed_dim:
+  desc: null
+  value: 512
+eval_start:
+  desc: null
+  value: 30
+evaluation_metrics:
+  desc: null
+  value:
+  - e_recall@1
+  - e_recall@10
+  - e_recall@100
+  - f1
+  - mAP_R
+lr:
+  desc: null
+  value: 0.0001
+lr_cosine_length:
+  desc: null
+  value: 120
+lr_cosine_min:
+  desc: null
+  value: 1.0e-07
+lr_proxy:
+  desc: null
+  value: 0.05
+mix_precision:
+  desc: null
+  value: true
+n_epochs:
+  desc: null
+  value: 120
+num_p_prompt:
+  desc: null
+  value: 5
+num_prompt:
+  desc: null
+  value: 90
+optim:
+  desc: null
+  value: adamw
+p_prompt_depth:
+  desc: null
+  value: 8
+pretrained_model:
+  desc: null
+  value: vit_base_patch16_224_in21k
+promot_mix:
+  desc: null
+  value: false
+prompt_block_step:
+  desc: null
+  value: 5
+prompt_depth:
+  desc: null
+  value: 12
+prompt_memory_bank:
+  desc: null
+  value: true
+prompt_p_block_step:
+  desc: null
+  value: 0
+proxy_bias_ratio:
+  desc: null
+  value: 0.2
+proxy_data_range:
+  desc: null
+  value: both_all
+proxy_mix_bias:
+  desc: null
+  value: true
+proxy_net_head:
+  desc: null
+  value: isolated
+rnn_dropout:
+  desc: null
+  value: 0.5
+same_p_scheduler:
+  desc: null
+  value: true
+samples_per_class:
+  desc: null
+  value: 1
+scheduler:
+  desc: null
+  value: cosine
+semantic_mix_type:
+  desc: null
+  value: gru_relu
+vit_bitfit:
+  desc: null
+  value: true
+vit_head:
+  desc: null
+  value: true
+vit_prompt:
+  desc: null
+  value: true
+vit_proxy_net:
+  desc: null
+  value: true
+no_train_metrics:
+  desc: null
+  value: true
+prompt_memory_bank:
+  value: true
