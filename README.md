@@ -20,11 +20,13 @@ Deep Metric Learning (DML) has long attracted the attention of the machine learn
 If you find this repo useful, please consider citing:
 
 ```BibTex
-@inproceedings{ren2024peftdml,
+@inproceedings{
+  ren2024learning,
   title={Learning Semantic Proxies from Visual Prompts for Parameter-Efficient Fine-Tuning in Deep Metric Learning},
-  author={Ren, Li and Chen, Chen and Wang, Liqiang and Hua, Kien},
-  booktitle={ICLR},
-  year={2024}
+  author={Li Ren and Chen Chen and Liqiang Wang and Kien A. Hua},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=TWVMVPx2wO}
 }
 ```
 
