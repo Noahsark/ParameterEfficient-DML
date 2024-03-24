@@ -4,6 +4,10 @@ Implementation of ICLR 2024 Paper: [Learning Semantic Proxies from Visual Prompt
 
 Li Ren, Chen Chen, Liqiang Wang, Kien Hua
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-semantic-proxies-from-visual-prompts/metric-learning-on-cub-200-2011)](https://paperswithcode.com/sota/metric-learning-on-cub-200-2011?p=learning-semantic-proxies-from-visual-prompts)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-semantic-proxies-from-visual-prompts/metric-learning-on-cars196)](https://paperswithcode.com/sota/metric-learning-on-cars196?p=learning-semantic-proxies-from-visual-prompts)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-semantic-proxies-from-visual-prompts/metric-learning-on-in-shop-1)](https://paperswithcode.com/sota/metric-learning-on-in-shop-1?p=learning-semantic-proxies-from-visual-prompts)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-semantic-proxies-from-visual-prompts/image-retrieval-on-inaturalist)](https://paperswithcode.com/sota/image-retrieval-on-inaturalist?p=learning-semantic-proxies-from-visual-prompts)
 
 ## Abstract 
 
